@@ -13,6 +13,7 @@ public class Calculator {
         System.out.print("Enter second number: ");
         double num2 = scanner.nextDouble();
         double result;
+        //jhbui
         switch (operator) {
             case '+':
                 result = num1 + num2;
